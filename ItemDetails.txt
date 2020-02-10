@@ -1,0 +1,18 @@
+This is ItemDetails File.
+This is in Item Branch.
+
+Edit 1 from remote1
+Edit 2 from remote1
+
+Edit 3 from remote after clone
+Edit1 from local repo
+
+
+Edit 1 from remote after clone
+Edit 2 from remote after clone
+
+
+
+
+
+
