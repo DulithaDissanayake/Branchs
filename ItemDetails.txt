@@ -1,9 +1,13 @@
 This is ItemDetails File.
 This is in Item Branch.
+Edit from Item branch : from remote
 
 Edit and commit from local
 Edit and commit from local2
 
 Edit from remote1
 Edit from remote2
+
+
+
 
